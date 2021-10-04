@@ -24,7 +24,3 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/JeH3jusfed.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-## Notes
-
-Sometimes the tweets don't load, but I think it's due to the rate limit.
